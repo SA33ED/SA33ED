@@ -25,7 +25,7 @@
 
 <br>
 
-  <a href="https://github.com/chakravarthi-v">
+  <a href="https://github.com/SA33ED">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakravarthi-v&hide=ASP.NET,jupyter%20notebook&theme=dark&hide_langs_below=1" height="220px"/>
   </a>
   <a href="https://github.com/chakravarthi-v">

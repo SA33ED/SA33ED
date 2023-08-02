@@ -38,5 +38,4 @@
 
 ------
 
-Credit: [chakravarthi-v](https://github.com/chakravarthi-v)
 

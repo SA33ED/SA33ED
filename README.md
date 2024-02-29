@@ -33,6 +33,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SA33ED&" alt="SA33ED" /></p>
 
 <br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SA33ED&show_icons=true&locale=en&layout=compact" alt="SA33ED" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SA33ED&show_icons=true&locale=en" alt="SA33ED" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SA33ED&" alt="SA33ED" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SA33ED" alt="SA33ED" /></a> </p>
 
 ## 🙋‍♀️ Let's Connect
 

@@ -1,30 +1,129 @@
 <h1 align="center">Hi 👋, I'm Mohammed Saeed</h1>
-<p align="center">
-  <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software++Engineer+%3A)"></a>
-</p>
+<h2 align="center">🚀 Flutter Developer and Youtube Content Creator</h2>
+<h3 align="center">Passionate About Building Stunning Mobile Apps</h3>
 
 <p align="center">
-  <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Flutter+and+BackEnd+Developer"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=450&lines=Flutter+Developer;Mobile+Tech+App+Developer;Freelancer;Software+Engineer;Problem+Solver;Open+to+new+opportunities!" />
 </p>
 
-<br>
+---
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Programming Languages
+### 👨🏻‍💻 About Me
+
+- 🎓 **Bachelor's Degree in Computer Science**
+- 🏅 Grade: **Good** – GP Grade: **Excellent**
+- 💼 Currently working as **Mid-Level Flutter Developer @ evyX**
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+- 💙 **Flutter** / Dart / Firebase / Supabase / Local Storage / Figma / Postman
+- 🧠 RESTful APIs, Problem Solving & Algorithms
+- 🧰 App Deployment (Play Store + App Store)
+- 🤝 Soft Skills: Communication, Flexibility, Growth Mindset & Teamwork
+
+---
+
+### 📱 Highlight Projects
+
+| App | Description | Platforms |
+|-----|-------------|-----------|
+| JoyStick Repair | Repair system for Joysticks and E-commerce for PlayStation-related products. | [Android](https://play.google.com/store/apps/details?id=com.joystick.evyx) / [iOS](https://apps.apple.com/eg/app/joystick-repair/id6743438840) |
+| Evntown app | Event management platform for discovering, filtering, and attending events.  | [Android](https://play.google.com/store/apps/details?id=com.evntown.evyx)|
+| 🔗 Note | For more recent, advanced, and large-scale projects, please visit my LinkedIn. | [LinkedIn](https://www.linkedin.com/in/eng-mohammed-saeed/) |
+
+---
+### 📫 Contact Me
+
+<p align="center">
+  <!-- Email -->
+  <a href="mailto:mohammedsaeed892002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:moh.osama12@gmail.com" alt="Email"/>
+  </a>
+  
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/eng-mohammed-saeed/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+  <!-- WhatsApp -->
+  <a href="https://wa.me/201032180690" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  
+  <!-- Phone -->
+  <a href="tel:+2001032180690">
+    <img src="https://img.shields.io/badge/Phone-+20 01125099112-2ea44f?style=for-the-badge" alt="Phone"/>
+  </a>
+  
+  <!-- GitHub -->
+  <a href="https://github.com/SA33ED/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 
+---
 
-<br>
+### ⚙️ Development Kit
 
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a>  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="php" width="60" height="60"/> </a> <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Dart-logo-icon.svg" alt="dart" width="60" height="60"/> </a></p>
+<p align="center">
+  <!-- Flutter -->
+  <a href="https://flutter.dev" target="_blank" style="display: inline-block; margin: 0 5px;">
+    <img src="https://media.giphy.com/media/3oKIPzDSU5bL3aQHwQ/giphy.gif" width="70" alt="Flutter">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
+  </a>
+  
+  <!-- Dart -->
+  <a href="https://dart.dev" target="_blank" style="display: inline-block; margin: 0 5px;">
+    <img src="https://media.giphy.com/media/tZiLOffTNGoak/giphy.gif" width="70" alt="Dart">
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white">
+  </a>
+  
+  <!-- Android -->
+  <a href="https://developer.android.com" target="_blank" style="display: inline-block; margin: 0 5px;">
+    <img src="https://media.giphy.com/media/3o85xkXpyQHQq8u0Gk/giphy.gif" width="70" alt="Android">
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white">
+  </a>
+  
+  <!-- iOS -->
+  <a href="https://developer.apple.com/ios/" target="_blank" style="display: inline-block; margin: 0 5px;">
+    <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="70" alt="iOS">
+    <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white">
+  </a>
+  
+  <!-- Firebase -->
+  <a href="https://firebase.google.com" target="_blank" style="display: inline-block; margin: 0 5px;">
+    <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="70" alt="Firebase">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
+  </a>
+  
+  <!-- Supabase -->
+  <a href="https://supabase.com" target="_blank" style="display: inline-block; margin: 0 5px;">
+    <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="70" alt="Supabase">
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white">
+  </a>
+  
+  <!-- Android Studio -->
+  <a href="https://developer.android.com/studio" target="_blank" style="display: inline-block; margin: 0 5px;">
+    <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="70" alt="Android Studio">
+    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white">
+  </a>
+  
+  <!-- VS Code -->
+  <a href="https://code.visualstudio.com" target="_blank" style="display: inline-block; margin: 0 5px;">
+    <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="70" alt="VS Code">
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
+  </a>
+</p>
 
-<br>
+---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Frameworks and Libraries
-</br>
-<br>
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJybXpuc3M2NWo2cXZrZTRxOXRjd2hmMXpvMmUxMGV3anl0N2JqcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="200" alt="Contact Animation">
+</div>
 
-<p align="left"><a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://storage.googleapis.com/cms-storage-bucket/64d67700f8293a9dc827.svg" alt="flutter" width="60" height="60"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://www.logo.wine/a/logo/Laravel/Laravel-Logo.wine.svg" alt="laravel" width="60" height="60"/> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/> </a> </p>
-<br>
 
 ## 🐱My Github stats:
 
@@ -36,9 +135,3 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SA33ED" alt="SA33ED" /></a> </p>
 
-## 🙋‍♀️ Let's Connect
-
-<br>
-<p align="left">
-<a href="https://www.linkedin.com/in/mohammed-saeed-61b0bb233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohammed Saeed" height="30" width="60" /></a>
-</p>
